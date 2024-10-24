@@ -5,5 +5,7 @@ List of projects to implement.
 
 See https://serde.rs/
 
+https://github.com/cfsamson/rust-logviewer
+
 https://getbootstrap.com/
 
